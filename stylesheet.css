@@ -27,7 +27,7 @@ nav ul li
 	transition:all 0.5s linear;
 	-webkit-transition:all 0.5s linear;
 	-moz-transition:all 0.5s linear;
-	-o-transition:all o.5s linear;
+	-o-transition:all 0.5s linear;
 }
 nav ul li:hover
 {
