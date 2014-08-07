@@ -1,6 +1,6 @@
 body
 {
-	background-image: url(http://www.pulsarmedia.eu/data/media/23/Sea_World_Wallpaper_By_Martz90_1920X1200.jpg);
+	background-image: url(http://www.fondosni.com/images/2012-10-22/Fondo%20verde%20con%20blanco%20y%20otros-616009.jpg);
 	font-family: "Helvetica" ,Arial; 
 	
 
@@ -13,7 +13,13 @@ body
 }
 h1
 {
-	color: #e44e2d;
+	color: #FFF;
+
+}
+h2
+{
+	color: #1d1d1d;
+	text-align: center;
 
 }
 nav ul li
@@ -44,8 +50,8 @@ nav ul li a
 {
 	width: 600px;
 	height: 300px;
-	background-color: #1d1d1d;
-	color: #fff;
+	background-image: url(http://fincayra.files.wordpress.com/2008/06/verde1.jpg);
+	color: #1d1d1d;
 	margin:0 auto;
 	text-align: left;
 	border-radius: 20px;
@@ -54,14 +60,14 @@ nav ul li a
 }
 a
 {
-	color: #e44e2d;
+	color: #FFF;
 	font-weight: bold;
 }
 #miCanvas
 {
 	position: absolute;
 	left: 0px;
-	bottom: -130px;
+	bottom: -260px;
 }
 meter
 {
@@ -74,8 +80,8 @@ meter
 #textoPr2
 {
 	width: 600px;
-	height: 450px;
-	background-color: #1d1d1d;
+	height: 400px;
+	background-image: url(http://fincayra.files.wordpress.com/2008/06/verde1.jpg);
 	color: #fff;
 	margin:0 auto;
 	text-align: center;
@@ -85,10 +91,33 @@ meter
 }
 #imagen
 {
-	width: 130px;
-	height: 100px;
+	width: 150px;
+	height: 150px;
 	text-align: left;
 	border-radius: 20px;
 
-
+}
+#textoPr3
+{
+	width: 600px;
+	height: 590px;
+	background-image: url(http://fincayra.files.wordpress.com/2008/06/verde1.jpg);
+	color: #fff;
+	margin:0 auto;
+	text-align: left;
+	border-radius: 20px;
+	padding: 20px;
+	box-shadow:0px 0px 20px rgba(0,0,0,0.5);
+}
+#textoPr4
+{
+	width: 600px;
+	height: 200px;
+	background-image: url(http://fincayra.files.wordpress.com/2008/06/verde1.jpg);
+	color: #fff;
+	margin:0 auto;
+	text-align: left;
+	border-radius: 20px;
+	padding: 20px;
+	box-shadow:0px 0px 20px rgba(0,0,0,0.5);
 }
